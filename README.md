@@ -1,5 +1,7 @@
 # ieecs-submission
 # Submission for IEEECS Task -1 A.I. Part By maneet gupta 24BBS0101
+
+## Please refer to Shap image for plot generated in the code. 
 🤖 AI/ML Task: Image Classification Challenge
 
 Check out this dataset which contains 70,000 grayscale images of 28x28 pixels each, representing 10 categories of fashion items.
